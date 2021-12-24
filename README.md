@@ -5,3 +5,5 @@ to spend a lot of time on this, but hey, this is a good refresher of what I coul
 
 UPDATE: This project is unfinished, because I am already familiar with HTML, I decided to not spend a lot
 of time completing all of the pages, as long as I just refreshed my knowledge about ideas, I am good with it.
+
+UPDATE (12/24/21): I returned to Odin Project. Currently on CSS section on foundations, and today I styled this webpage. No aim for amazing design look, I just wanted to refresh myself some CSS basics.
